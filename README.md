@@ -7,5 +7,5 @@ sudo bash ./wazuh-install.sh -a
 ![Hasil :](./Instalasi%20Wazuh%20Manager.jpg)
 
 
-#Script Cowrie
+# Script Cowrie
 ![Hasil :](./Script_Cowrie.jpg)
