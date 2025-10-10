@@ -9,3 +9,6 @@ sudo bash ./wazuh-install.sh -a
 
 # Script Cowrie
 ![Hasil :](./Script_Cowrie.jpg)
+
+
+# Setup Wazuh Agent
