@@ -12,7 +12,7 @@ sudo bash ./wazuh-install.sh -a
 
 
 # Setup Wazuh Agent
-![Hasil :](./Setup%20Agent%201.jpg)
-![Hasil :](./Setup%20Agent%202.jpg)
-![Hasil :](./Setup%20Agent%203.jpg)
-![Hasil :](./Agent.jpg)
+![Hasil :](./Setup%20Agent%201.png)
+![Hasil :](./Setup%20Agent%202.png)
+![Hasil :](./Setup%20Agent%203.png)
+![Hasil :](./Agent.png)
